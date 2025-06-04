@@ -9,8 +9,10 @@ $ python
 >>> binascii.hexlify(os.random(24))
 
 
-editor python no terminal com autocomplete:
+Editor python no terminal com autocomplete:
 
+instalar com pip:
 $ pip install ipython
 
+executar no terminal:
 $ ipython
