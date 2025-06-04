@@ -1,0 +1,16 @@
+
+
+Gerar secret:
+
+no terminal digitar python
+$ python
+>>> import os
+>>> import binascii
+>>> binascii.hexlify(os.random(24))
+
+
+editor python no terminal com autocomplete:
+
+$ pip install ipython
+
+$ ipython
